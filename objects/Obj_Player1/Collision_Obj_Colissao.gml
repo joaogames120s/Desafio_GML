@@ -1,0 +1,1 @@
+//Criando a colissao entre o player 1 com a parede para ele n sair da room
